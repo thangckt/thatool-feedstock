@@ -47,8 +47,8 @@ about:
   license: MIT
   license_family: MIT
   license_file: LICENSE.txt
-  summary: "This package contains several in-house codes to handle some specific tasks. This package is developed and maintained by @thangckt"
-  doc_url: https://thangckt.github.io/doc/doc1_ThangTool/
+  summary: "ThangTool is an object-oriented Python package for pre-processing and post-processing data from MD simulations. This package is developed and maintained by @thangckt 'https://thangckt.github.io' "
+  doc_url: https://thangckt.github.io
 
 extra:
   recipe-maintainers:
