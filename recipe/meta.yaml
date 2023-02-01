@@ -48,7 +48,7 @@ about:
   license_family: MIT
   license_file: LICENSE.txt
   summary: "This package contains several in-house codes to handle some specific tasks. This package is developed and maintained by @thangckt"
-  doc_url: https://thangckt.github.io/doc/doc1_ThangTool/
+  doc_url: https://thangckt.github.io/thatool/
 
 extra:
   recipe-maintainers:
