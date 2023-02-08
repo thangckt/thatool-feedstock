@@ -21,14 +21,12 @@ requirements:
     - python >=3.6
   run:
     - python >=3.6
-    - numpy
     - scipy
     - pandas
     - ele
-    - lmfit
     - shapely 
     - natsort 
-    - matplotlib-base
+    - matplotlib
     
 
 test:
