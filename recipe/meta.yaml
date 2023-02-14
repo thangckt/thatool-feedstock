@@ -26,7 +26,7 @@ requirements:
     - ele
     - shapely 
     - natsort 
-    - matplotlib
+    - matplotlib-base
     - pyshtools
     
 
