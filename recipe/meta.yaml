@@ -27,6 +27,7 @@ requirements:
     - shapely 
     - natsort 
     - matplotlib
+    - pyshtools
     
 
 test:
