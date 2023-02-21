@@ -1,5 +1,5 @@
 {% set name = "thatool" %}
-{% set version = "1.1.5" %}
+{% set version = "1.1.6" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: "https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz"
-  sha256: 93a95dab7bf367fac0a55f78317ea7520879338130ac4c37e7be68d63add117b
+  sha256: 505bfa9e30c4d23313664743a985f0687140f011a307f8d1d28b7471eab2f165
 
 build:
   number: 0
